@@ -1,1 +1,1 @@
-# YUNSEO's services - server
+# YUNSEO's services - Server
