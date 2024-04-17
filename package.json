@@ -7,7 +7,7 @@
   "packageManager": "pnpm@8.10.0",
   "scripts": {
     "prepare": "husky install",
-    "lint:fix": "eslint --ext .tsx --ext .ts . --fix",
+    "lint:fix": "eslint --ext .tsx --ext .ts . --ignore-pattern ./study-log --fix",
     "prettier:write": "prettier --write .",
     "precommit": "lint-staged"
   },
